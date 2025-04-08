@@ -48,4 +48,5 @@
   { "symbol": "ULTRACEMCO", "name": "UltraTech Cement Ltd", "beta": 0.85 },
   { "symbol": "UPL", "name": "UPL Ltd", "beta": 1.01 },
   { "symbol": "WIPRO", "name": "Wipro Ltd", "beta": 0.70 }
+  { "symbol": "APOLLOHOSP", "name": "Apollo Hospitals Enterprise Ltd", "beta": 0.85 }
 ]
