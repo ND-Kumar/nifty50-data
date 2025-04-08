@@ -49,4 +49,3 @@
   { "symbol": "UPL", "name": "UPL Ltd", "beta": 1.01 },
   { "symbol": "WIPRO", "name": "Wipro Ltd", "beta": 0.70 }
 ]
-Add static JSON for Nifty50 stocks with Beta
